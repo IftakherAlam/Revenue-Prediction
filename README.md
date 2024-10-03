@@ -6,7 +6,7 @@ Backend: Python with Flask for training the model and predicting future revenue 
 Frontend: React (with Material UI) for fetching and displaying the predicted revenue in a clean, responsive UI.
 Prediction Model: Uses a simple machine learning model (e.g ARIMA) to predict future revenue.
 ## root/
-├── backend/
+``` ├── backend/
 │   ├── app.py                # Flask app handling API requests
 │   ├── model.py              # Python script for loading data, training, and predicting
 │   ├── data.csv              # Historical revenue data file
@@ -22,7 +22,7 @@ Prediction Model: Uses a simple machine learning model (e.g ARIMA) to predict fu
 │   ├── package.json          # Frontend dependencies
 ├── README.md                 # Documentation
 └── .gitignore                # Git ignore file
-
+```
 
 ## Backend (Python - Flask)
 The backend is built using Flask, a lightweight Python web framework. It is responsible for:
