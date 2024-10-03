@@ -34,3 +34,8 @@ Serving Predictions: Exposing an API endpoint (/api/predict) that returns the pr
 
 ## Frontend (React - Material UI)
 The frontend is built using React and Material UI for a clean and responsive user interface. It fetches predictions from the Flask backend and displays them on the page.
+
+## ScreenShot
+
+![image](https://github.com/user-attachments/assets/ae2fb43f-3022-4107-a185-34d347c5f3a3)
+
